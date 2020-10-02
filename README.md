@@ -26,7 +26,7 @@ Parte 3: Exemplo de Jurimetria no R
 -   [Script
     extração](https://abjur.github.io/202010-insper/scripts/01-extracao.R)
 -   [Script
-    arrumação](https://abjur.github.io/202010-insper/scripts/02-arrumacao.R)
+    visualização](https://abjur.github.io/202010-insper/scripts/02-visualizacao.R)
 -   [Script
     modelagem](https://abjur.github.io/202010-insper/scripts/03-modelagem.R)
 
