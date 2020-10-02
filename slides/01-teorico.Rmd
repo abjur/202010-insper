@@ -16,6 +16,12 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+# O que você sabe sobre jurimetria?
+
+[pollev.com/juliotrecent508](https://pollev.com/juliotrecent508)
+
+<iframe src="https://beta.polleverywhere.com/multiple_choice_polls/ZAsKK6ftMc5cOyLZLdWYN", frameborder="0" width = "100%", height = "500px"/>
+
 ---
 
 # Julio Trecenti
@@ -150,6 +156,14 @@ knitr::include_graphics("img/logo.png")
 
 ---
 
+# Quanto você sabe sobre R?
+
+[pollev.com/juliotrecent508](https://pollev.com/juliotrecent508)
+
+<iframe src="https://beta.polleverywhere.com/multiple_choice_polls/rohB5LnjVdbuY8FBzHg7t", frameborder="0" width = "100%", height = "500px"/>
+
+---
+
 # ABJ ❤️  R
 
 - [abjur](https://github.com/abjur): Organização no GitHub com nossos códigos
@@ -176,7 +190,6 @@ knitr::include_graphics("img/logo.png")
 ```{r, out.width="100%"}
 knitr::include_graphics("img/empresas.png")
 ```
-
 
 ---
 
