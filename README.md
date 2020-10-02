@@ -35,9 +35,3 @@ Sobre a ABJ
 
 A ABJ é uma instituição sem fins lucrativos que busca disseminar o uso
 da Jurimetria nas entidades públicas e privadas.
-
-<div align="center">
-
-[![ABJ](logo.png)](https://abj.org.br)
-
-</div>

@@ -35,10 +35,4 @@ Essa página contém os materiais da aula sobre Jurimetria dada no Insper, no di
 
 A ABJ é uma instituição sem fins lucrativos que busca disseminar o uso da Jurimetria nas entidades públicas e privadas.
 
-<div align="center">
-
-[![ABJ](logo.png)](https://abj.org.br)
-
-</div>
-
 
