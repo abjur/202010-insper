@@ -29,3 +29,15 @@ Parte 3: Exemplo de Jurimetria no R
     arrumação](https://abjur.github.io/202010-insper/scripts/02-arrumacao.R)
 -   [Script
     modelagem](https://abjur.github.io/202010-insper/scripts/03-modelagem.R)
+
+Sobre a ABJ
+===========
+
+A ABJ é uma instituição sem fins lucrativos que busca disseminar o uso
+da Jurimetria nas entidades públicas e privadas.
+
+<div align="center">
+
+[![ABJ](logo.png)](https://abj.org.br)
+
+</div>
