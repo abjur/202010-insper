@@ -234,6 +234,6 @@ class: inverse, center, middle
 
 # [x] informações gerais
 
-# [✅ ] aspectos práticos
+# [ ] aspectos práticos
 
-# [✅ ] exemplo no R
+# [ ] exemplo no R
