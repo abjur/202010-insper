@@ -30,7 +30,7 @@ variavel_taxa_desfecho <- function(bd, var, resposta) {
 
 # calculamos as taxas usando somente a base de treino
 da_treino <- da_modelagem %>%
-  dplyr::sample_frac(0.7) %>%
+  sample_frac(0.7) %>%
   variavel_taxa_desfecho("juiz") %>%
   variavel_taxa_desfecho("vara") %>%
   variavel_taxa_desfecho("tipo_vara") %>%

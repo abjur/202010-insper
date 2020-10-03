@@ -14,13 +14,12 @@ abjutils::build_id(da_id$id[1]) %>%
 
 abjutils::check_dig(da_id$id[1])
 
-abjutils::extract_parts(da_id$id[1], c("N", "J"))
+abjutils::extract_parts(da_id$id[1:2], c("N", "J", "T"))
 
 da_id %>%
   head() %>%
   mutate(id = abjutils::build_id(id)) %>%
   abjutils::separate_cnj(id)
-
 
 # baixando numeros de processo --------------------------------------------
 
@@ -39,7 +38,6 @@ da_cpopg <- lex::tjsp_cpopg_parse(arquivos)
 da_cpopg %>%
   select(id_processo, movimentacoes) %>%
   unnest(movimentacoes)
-
 
 # export ------------------------------------------------------------------
 
